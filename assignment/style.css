@@ -1,10 +1,12 @@
 /* Give your page a fun background color */
 .body {
-    background-color: black;
     font-family: Arial, Helvetica, sans-serif;
 }
+
 /* Make the header and footer a different color from the background */
 .header {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
     color: white;
 }
 /* Align the h1 containing your name in the center of the header*/
@@ -23,4 +25,11 @@
 /* Change the font-family of your list */
 .list {
     font-family: 'Times New Roman', Times, serif
+}
+
+.footer {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
 }
