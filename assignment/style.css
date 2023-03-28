@@ -2,13 +2,14 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
+    background-color: tan;
 }
 
 /* Make the header and footer a different color from the background */
 header {
-    background-color: black;
+    background-color: #115800;
     font-family: Arial, Helvetica, sans-serif;
-    color: white;
+    color: tan;
 }
 /* Align the h1 containing your name in the center of the header*/
 h1 {
@@ -17,11 +18,11 @@ h1 {
 /* Make your p tag a different color and italic */
 p1 {
     font-weight: italic;
-    color: gray;
+    color: rgb(77, 77, 77);
 }
 /* Put a border around your image */
 img {
-    border: 3px solid red;
+    border: 3px solid #115800;
     max-width: 40%;
     height: auto;
 }
@@ -31,8 +32,8 @@ img {
 }
 
 footer {
-    background-color: black;
+    background-color: #115800;
     font-family: Arial, Helvetica, sans-serif;
-    color: white;
+    color: tan;
 
 }
