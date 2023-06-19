@@ -1,5 +1,7 @@
 # Unit 1: Git, HTML/CSS, Hello World
 
+This is my first assignment for Prime Academy. It was to practice the basics of Git, HTML/CSS, and some Javascript.
+
 **Please watch all the videos for Week 1 on [the Tier 1 site](http://fullstack.primeacademy.io) before starting the assignment.** 
 
 These videos contain important information that will help you complete the assignment. Feel free to refer back to the videos whenever you need them!
